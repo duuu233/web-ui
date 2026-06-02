@@ -1,7 +1,7 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  BASE_API: '"https://appapi.fce-inno.com/ZoneAdmin/"', //请求接口地址
+  BASE_API: '"https://appapi.fce-inno.com/api/ZoneAdmin/"', //请求接口地址
   BASE_PAY: '"http://39.108.153.239:8813"',
   BASE_UPLOAD:
     '"http://39.108.153.239:8817/Upload/setFileUpload?sign=b07ef5c19f0adc1bdd1186860d913b49&randomString=20215192&device=1&terminal=1&platForm=12"',
